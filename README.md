@@ -1,0 +1,2 @@
+# mcsrv
+Minecraft docker container
