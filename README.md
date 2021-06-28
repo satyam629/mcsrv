@@ -1,2 +1,2 @@
 # mcsrv
-Minecraft docker container
+Minecraft docker container is cool
